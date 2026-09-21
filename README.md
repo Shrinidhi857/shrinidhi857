@@ -17,11 +17,10 @@
 
 🌟 I'm an **Information Science & Engineering** undergrad at **RV College of Engineering, Bengaluru**, passionate about building AI-powered products end-to-end — from ML pipelines to production infrastructure.
 
-- 🎓 B.E. in Information Science and Engineering, RVCE (CGPA: 8.03) — Class of 2027
+- 🎓 B.E. in Information Science and Engineering, RVCE  — Class of 2027
 - 🏆 **Smart India Hackathon 2025 Finalist** for *Sanjaya*, a real-time sign language interpretation system
 - 🔭 Currently building **AI education tools**, **RAG-based research assistants**, and **computer vision systems**
 - 🌱 Exploring **Mobile Development**, **Applied Machine Learning**, and **Agentic AI**
-- 💻 **500+ problems solved** on LeetCode, rated **1600+**
 - 📫 Reach me at **shrinidhiachar857@gmail.com**
 - ⚡ Fun fact: I enjoy turning ideas into reality through code!
 
@@ -117,18 +116,7 @@
 </td></tr>
 </table>
 
----
 
-## 🏅 Certifications & Achievements
-
-- 🏆 **Smart India Hackathon 2025 Finalist**
-- 💻 **LeetCode** — 1600+ rating, 500+ problems solved
-- 📜 **AI for Economics** — Certified
-- 📜 **Data Science** — Certified
-- 📜 **C++ DSA** — Certified
-- 📜 **Salesforce Agentforce** — Certified
-
----
 
 <div align="center">
 
